@@ -19,7 +19,6 @@ const renderContent = (column = 2) => (
     <Descriptions.Item label="Creation Time">2021</Descriptions.Item>
     <Descriptions.Item label="Editors">
       <a href="https://vk.com/mcave">Michael Papug</a>
-      <a href="https://vk.com/mcave">Michael Papug</a>
     </Descriptions.Item>
   </Descriptions>
 );
