@@ -1,0 +1,22 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+  flex: 4;
+  }
+  
+  .buttons button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 5vw;
+  border: none;
+  cursor: pointer;
+  transition: all .5s ease-in;
+  
+  }
+  
+  .buttons button:hover {
+  text-decoration: underline;
+  transition: all .5s ease-in;
+  }
+  

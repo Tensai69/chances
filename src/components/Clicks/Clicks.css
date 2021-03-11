@@ -1,0 +1,17 @@
+.clicks {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-wrap: wrap;
+  font-size: 1.5vw;
+  }
+  
+  .clicks div {
+  flex: 1;
+
+  }
+  .clicks button{
+    min-width: 7vw;
+    margin-top: 2vh;
+  }
+  
